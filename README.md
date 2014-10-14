@@ -1,7 +1,7 @@
 Sudoku
 ======
 
-Program a Brute Force approach.
+Program a sudoku solver.
 
 Todo list:
 1.  Read-in a game
